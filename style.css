@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: "微软雅黑", "黑体", "宋体";
+}
+
+a {
+    text-decoration: none;
+}
+
+.top-bar {
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #007bee;
+}
+
+.navigation-bar {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 34px;
+    background-color: #007bee;
+}
+
+.navigation-table {
+    margin: 0;
+}
+
+.option {
+    padding: 10px;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.option:hover {
+    background-color: #88c4fc;
+}
+
+.underline {
+    padding-bottom: 2px;
+    border-bottom: 2px #ffffff solid;
+}
+
+#hot-project-header {
+    margin-left: 2px;
+}
+
+.hot-project-title {
+    margin: 0;
+}
+
+.hot-project-text {
+    margin: 0;
+    margin-top: 5px;
+}
+
+.hot-project-title b {
+    margin: 0;
+}
+
+.hot-project-text p {
+    margin: 0;
+}
+
+.hot-project-label {
+    margin-top: 10px;
+}
+
+.all-project {
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 760px;
+}
+
+.project-list {
+    list-style: none;
+}
+
+.title {
+    font-size: 20px;
+    padding-bottom: 2px;
+    border-bottom: 2px #59abf7 solid;
+}
+
+.project-list-header {
+    margin-bottom: 5px;
+}
+
+.None {
+    color: #aaa;
+}
+
+.project {
+    color: #ffffff;
+    color: #2d8feb;
+}
+
+.project:hover {
+    color: #59abf7;
+}
